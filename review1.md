@@ -5,6 +5,18 @@
 
 <b>Reviewed by</b> : Samrat Pravin Patel
 
+<i><b>Index</b></i>
+
+&#8226; Broad Area Overview
+
+&#8226; Problem Description
+
+&#8226; Solution
+
+&#8226; Comments
+
+&#8226; Future insight and further work
+
 <b>Broad Area Overview</b>
 
 This paper gives one a comprehensive idea of robot mapping algorithms especially focusing on the indoor environment. Most of these algorithms are probabilistic and incremental so they can be run in real time whereas others require multiple passes through the data and added processing. There are some which require the actual pose and some used the odometry measurements for positioning, also some are capable of handling correspondence between data recorded at a different point in time whereas others require features to carry signatures that make the data points that are uniquely identifiable.
