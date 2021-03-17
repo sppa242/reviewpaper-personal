@@ -27,6 +27,7 @@ Majority of robot mapping algorithms employ a probabilistic approach due to the 
 Below section summarizes various robotic mapping approaches approaches  along with key advantages and limitations
 
 <b>Kalman filter :</b>
+
 In Kalman filter approach mapping relies on 3 assumptions
 Next State function must be linear with added Gaussian Noise 
 Characteristics must apply to perceptual model
@@ -34,6 +35,7 @@ Initial uncertainty must be gaussian
 
 
 <b>Advantages</b> 
+
 Advantage of the Kalman filter approach is that it estimates the full posterior over maps in real time fashion which is helpful during encountering uncertainty  when using maps for the navigation purpose.
 
 <b>Limitations</b>
@@ -41,6 +43,7 @@ The most important limitation of Kalman filter approach lies in the Gaussian Noi
 
 
 <b>Expectation Maximization Algorithm:</b>
+
 It's an alternative to Kalman Filter technique developed in context to Maximum Likelihood estimation of latent variables . It constitutes one of the best solutions for the problem of correspondence mapping. 
 
 <b>Advantages</b>  
