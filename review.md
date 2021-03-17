@@ -3,7 +3,7 @@
   
  Author: Sebastian Thrun February 2002 CMU-CS-02-111</b>
 
-<b>Reviewed by Samrat Pravin Patel</b>
+ <b>Reviewed by Samrat Pravin Patel</b>
 
 <b>Broad Area Overview</b>
 
