@@ -7,9 +7,10 @@
  
  <b><i>Index</i></b>
  
- &#8226; Broad Area Overview<br>
+ &#8226; 
  
- Problem Description algorithms especially focusing on the indoor environment. Most of these algorithms are probabilistic and incremental so they can be run in real time whereas others require multiple passes through the data and added processing. There are some which require the actual pose and some used the odometry measurements for positioning, also some are capable of handling correspondence between data recorded at a different point in time whereas others require features to carry signatures that make the data points that are uniquely identifiable.
+ <b>Broad Area Overview<b/>
+Problem Description algorithms especially focusing on the indoor environment. Most of these algorithms are probabilistic and incremental so they can be run in real time whereas others require multiple passes through the data and added processing. There are some which require the actual pose and some used the odometry measurements for positioning, also some are capable of handling correspondence between data recorded at a different point in time whereas others require features to carry signatures that make the data points that are uniquely identifiable.
 
 <b>Problem Description</b>
 
