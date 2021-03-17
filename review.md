@@ -1,6 +1,7 @@
 
-<b>Robotic Mapping: A Survey 
-Sebastian Thrun February 2002 CMU-CS-02-111</b>
+<b>"Robotic Mapping: A Survey"
+  
+Author: Sebastian Thrun February 2002 CMU-CS-02-111</b>
 
 <b>Reviewed by Samrat Pravin Patel</b>
 
