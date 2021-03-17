@@ -70,6 +70,7 @@ Hybrid approach works better in a multi robot environment for mapping. Even thou
 Rollback  to the earlier map can be catastrophic failure. Moreover the approach cannot cope with complex ambiguities such as uncertainties that arise when robot traverses multiple posted cycles. Hybrid approach strictly speaking is not a real time algorithm as the time it takes to correct the loop depends on the complexity and size of the loop.
 
 <b>Occupancy Grid Maps :</b> 
+
 Central problems addressed by occupancy grid mapping and related algorithms in the problem of generating consistent metric maps from noisy or incomplete sensor data.Even if the robot poses are known it is sometimes difficult to say whether a place in the environment is occupied or not due to ambiguities in sensor data. Hence the occupancy grid map resolves such ambiguities by generating probabilistic maps represented by grids in two dimensions. The Bayes filter is used to calculate the posterior over the occupancy over the grid cells.
 
 <b>Advantages</b> 
@@ -85,7 +86,7 @@ Basic maps of objects consisting of geometric shapes and sizes using lines, wall
 
 <b>Advantages</b> 
 
-More compact than the occupancy grid maps especially if the environment is structured. Highly accurate. Efficient in dynamic environments applications. Can be mixed and matched with other mapping algorithms and techniques such as EM Algorithms or Hybrid Maps algorithm for maximum advantage for robot operations. #D Models of map generated from sensor data are much more smoother and accurate up to 95%
+More compact than the occupancy grid maps especially if the environment is structured. Highly accurate. Efficient in dynamic environments applications. Can be mixed and matched with other mapping algorithms and techniques such as EM Algorithms or Hybrid Maps algorithm for maximum advantage for robot operations.Models of map generated from sensor data are much more smoother and accurate up to 95%
 
 <b>Future insight and further work</b> 
 
@@ -97,6 +98,7 @@ The paper has placed less emphasis on multi robot systems due to the problem of 
 With the advent of the VTOLs and UAV drones for applications in transportation this paper has not covered the class of new emerging technologies which have potential for changing the future of mankind. 
 
 <b>Recent Papers</b> 
+
 &#8226;Cappel, H. F. (2021). A Hierarchical Multi-Robot Mapping Architecture Subject to Communication Constraints. arXiv preprint arXiv:2102.01641.
 
 &#8226;Housein, A. A., & Xingyu, G. (2021, March). Simultaneous Localization and Mapping using differential drive mobile robot under ROS. In Journal of Physics: Conference Series (Vol. 1820, No. 1, p. 012015). IOP Publishing
